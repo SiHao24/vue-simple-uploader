@@ -1,0 +1,6 @@
+文件上传 input的问题  文件上传成功失败  文件大小
+组件化的概念 npm包
+
+
+安装插件
+yarn add vue-simple-uploader
